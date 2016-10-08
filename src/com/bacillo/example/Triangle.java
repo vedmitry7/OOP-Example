@@ -25,5 +25,4 @@ public class Triangle implements Shape {
         double p = getPerimeter()/2;
         return Math.sqrt( p * (p-a) * (p-b) * (p-c));
     }
-
 }

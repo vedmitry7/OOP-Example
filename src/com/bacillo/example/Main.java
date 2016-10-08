@@ -15,6 +15,4 @@ public class Main {
     static void printArea(Shape shape){
         System.out.println(shape.getArea());
     }
-
-
 }
